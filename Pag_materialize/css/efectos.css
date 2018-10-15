@@ -1,0 +1,9 @@
+.barra-superior{
+  min-height: 10rem;
+}
+.logo{
+  width: 150px;
+  margin-top: 0.5rem;
+  float: left;
+}
+

@@ -1,0 +1,29 @@
+body{
+  background-color: #EDBB99;
+  width: 100%;
+  height: 100%;
+}
+.container-fluid {
+  margin-top: 73px;
+}
+.logo{
+    border-radius: 10px;
+    width: 180px;
+    height: 120px;
+}
+.opacity{
+   background-color:rgb(255,0,0);
+   opacity:0.6;
+}
+ul {
+	list-style: none;
+}
+.list-img {
+     display:inline;
+     float: right;
+     padding: 0.5% 0.5% 0 0;
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+}
